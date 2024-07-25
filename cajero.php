@@ -1,5 +1,5 @@
 <?php
-//clase que contiene todas las funciones necesarias para que el codigo funcione
+//clase que contiene todas las funciones necesarias para que el codigo funcione en su totalidad
 
 class CajeroAutomático {
     private $saldo;
