@@ -1,5 +1,6 @@
 <?php
-//clase que contiene todos los archivos
+//clase que contiene todas las funciones necesarias para que el codigo funcione
+
 class CajeroAutomático {
     private $saldo;
 
